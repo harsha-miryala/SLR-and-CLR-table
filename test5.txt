@@ -1,0 +1,5 @@
+S: A a
+S: b A c
+S: d c
+S: b d a
+A: d
